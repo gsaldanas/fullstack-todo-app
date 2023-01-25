@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1111",
+      "todo": "Javascript api leren",
+      "checked": "false"
+    },
+    {
+      "id": "2222",
+      "todo": "three.js leren",
+      "checked": "false"
+    },
+    {
+      "id": "333",
+      "todo": "php leren",
+      "checked": "false"
+    },
+    {
+      "id": "444",
+      "todo": "David klonen",
+      "checked": "false"
+    }
+  ]
+}
